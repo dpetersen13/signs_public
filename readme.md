@@ -123,10 +123,6 @@ repo-name-goes-here
 ├── 2- Hand_Landmarks_extraction.ipynb  # Extracts hand landmarks using MediaPipe or similar tools  
 ├── 3-train_mode.ipynb                  # Trains the model using collected data and SVM or other ML techniques  
 ├── 4- Real_time_deployment.ipynb       # Deploys the model for real-time gesture recognition and translation  
-├── 5- Hand landmarks_Data.pickle       # Pickled file containing extracted hand landmarks data  
-├── 6- SVM Model.p                      # Saved SVM model trained on gesture data  
-├── data.pickle                         # Pickled data used during training and testing phases  
-├── model.p                             # Serialized machine learning model   
 ├── qfrency.py                          # Script for managing text-to-speech (TTS) frequency or voice settings  
 ├── readme.md                           # Project documentation with instructions, dependencies, and usage  
 ├── requirements.txt                    # List of dependencies to install (useful for setting up the environment)  
